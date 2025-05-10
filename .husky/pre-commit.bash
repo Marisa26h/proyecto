@@ -1,0 +1,1 @@
+pnpm test --collectCoverage=false
